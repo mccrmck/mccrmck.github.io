@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'About',    url: 'about'}
+# - {name: 'About',    url: 'about'}
 
 #-------------------------------
 # Projects Section
