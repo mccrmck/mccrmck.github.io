@@ -1,10 +1,10 @@
 <section>
   <div class="calendar-container">
-    {% for year in site.calendar %}
-        <div class="calendar-year" data-folder="{{ site.github.url }}/calendar/{{ year }}">
+    {% for year in site.data.settings.calendar %}
+        <div class="calendar-year">
           <ul>
             <li>
-              {{year.title}}
+              {{year}}
             </li>
           </ul>
         </div>
