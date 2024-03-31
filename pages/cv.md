@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv
-permalink: /cvEng
+permalink: /cv/eng
 ---
 
 # CV
