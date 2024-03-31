@@ -11,8 +11,6 @@ images:
     text: phone
 ---
 
-Your page's content goes here
-
 # Contact
 
 <ul>
