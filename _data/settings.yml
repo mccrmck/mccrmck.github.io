@@ -2,7 +2,9 @@
 # General Site Settings
 
 menu:
-# - {name: 'About',    url: 'about'}
+- { name: 'catalogue', url: 'catalogue' }
+- { name: 'cv',        url: 'cv' }
+- { name: 'contact',   url: 'contact' }
 
 #-------------------------------
 # Projects Section
@@ -11,17 +13,18 @@ projects:
 - {name: 'Project One',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'under: went',  url: 'underwent'}
+- {name: 'YAWN',  url: 'yawn'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'facebook',  link: 'https://www.facebook.com/mccrmck.art'}
-- {icon: 'instagram', link: 'https://www.instagram.com/mccormick.mike.r/'}
-- {icon: 'github',    link: 'https://github.com/mccrmck'}
 - {icon: 'bandcamp',  link: 'https://mccrmck.bandcamp.com'}
+- {icon: 'facebook',  link: 'https://www.facebook.com/mccrmck.art'}
+- {icon: 'github',    link: 'https://github.com/mccrmck'}
+- {icon: 'instagram', link: 'https://www.instagram.com/mccormick.mike.r/'}
+- {icon: 'youtube', link: 'https://www.youtube.com/@mccrmck_' }
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -31,7 +34,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Mike McCormick'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
@@ -44,7 +47,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
