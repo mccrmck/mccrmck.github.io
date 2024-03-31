@@ -17,7 +17,7 @@ Your page's content goes here
 
 <ul>
   {% for image in page.images %}
-    <li class="col-{{ image.column }}" style="background-image: url({{ image.path }})">
+    <li class="col-{{ image.column }}" style="background-image: {{ image.path }}">
       <p>{{ image.text }}</p>
     </li>
   {% endfor %}
