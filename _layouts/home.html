@@ -4,9 +4,9 @@ layout: default
 
 <section>
   <div class="calendar-container">
-    {% for year in site.calendar %}
+    {% for year in site.calendar reversed %}
     <div class="calendar-year">
-      <h4> {{ year.title }} </h4>
+      <h4 class="calendar-year-title"> {{ year.title }} </h4>
       <p> {{ year.content }} </p>
     </div>
     {% endfor %}
