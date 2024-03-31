@@ -10,3 +10,6 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Mike McCormick"
 description: "Mike McCormick"
 author:      "Mike McCormick"
+
+collections:
+- calendar
