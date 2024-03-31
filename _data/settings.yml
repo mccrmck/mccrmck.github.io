@@ -4,7 +4,7 @@
 menu:
 - { name: 'catalogue', url: 'catalogue' }
 - { name: 'contact',   url: 'contact' }
-- { name: 'cv',        url: 'cv' }
+- { name: 'cv',        url: 'cv/eng' }
 
 #-------------------------------
 # Calendar
