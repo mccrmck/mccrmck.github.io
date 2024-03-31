@@ -5,11 +5,10 @@ layout: default
 <section>
   <div class="calendar-container">
     {% for year in site.calendar %}
-        <div class="calendar-year">
-          <p>
-            {{ year.title }}
-          </p>
-        </div>
+    <div class="calendar-year">
+      <h4> {{ year.title }} </h4>
+      <p> {{ year.content }} </p>
+    </div>
     {% endfor %}
   </div>
 </section>
