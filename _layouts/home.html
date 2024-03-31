@@ -6,7 +6,9 @@ layout: default
   <div class="calendar-container">
     {% for year in site.calendar %}
         <div class="calendar-year">
-          year.title
+          <p>
+            {{ year.title }}
+          </p>
         </div>
     {% endfor %}
   </div>
