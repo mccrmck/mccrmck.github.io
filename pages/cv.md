@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/eng
 ---
 
-# CV
+# cv
 Mike McCormick (he/him) // artist • programmer
 Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
