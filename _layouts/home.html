@@ -4,11 +4,9 @@ layout: default
 
 <section>
   <div class="calendar-container">
-    {% for year in site.data.settings.calendar %}
+    {% for year in site.calendar %}
         <div class="calendar-year">
-          <a href="{{ site.github.url }}/calendar/{{ year.year }}">
-          {{ content }}
-            </a>
+          year.title
         </div>
     {% endfor %}
   </div>
