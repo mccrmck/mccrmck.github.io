@@ -1,8 +1,8 @@
 <section>
   <div class="calendar-container">
-    {% for year in site.data.settings.calendar %}
+    {% for year in site.data.settings.calendar.directory.documents %}
         <div class="calendar-year">
-          <p> {{ site.data.settings.calendar.directory}}</p>
+          <p> {{ content }}</p>
         </div>
     {% endfor %}
   </div>
