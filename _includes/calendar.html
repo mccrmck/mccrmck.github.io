@@ -1,24 +1,13 @@
 <section>
-  <div class="main-calendar">
-   <ul>
-     <!-- 2024 -->
-     <li>2024</li>
-     <ul>
-       <li>
-         • something goes here
-       </li>
-     </ul>
-
-     <!-- 2023 -->
-     <li>2023</li>
-     <ul>
-       <li>
-         • something goes here
-       </li>
-     </ul>
-
-     
-   </ul>
-    
+  <div class="calendar-container">
+    {% for year in site.calendar %}
+        <div class="calendar-year" data-folder="{{ site.github.url }}/calendar/{{ year }}">
+          <ul>
+            <li>
+              {{year}}
+            </li>
+          </ul>
+        </div>
+    {% endfor %}
   </div>
 </section>
