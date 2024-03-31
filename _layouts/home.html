@@ -2,4 +2,12 @@
 layout: default
 ---
 
-{% include calendar.html %}
+<section>
+  <div class="calendar-container">
+    {% for year in site.data.settings.calendar.directory.documents %}
+        <div class="calendar-year">
+          {{ content }}
+        </div>
+    {% endfor %}
+  </div>
+</section>
