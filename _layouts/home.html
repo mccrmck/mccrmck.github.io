@@ -7,7 +7,7 @@ layout: default
     {% for year in site.calendar reversed %}
     <div class="calendar-year">
       <h4 class="calendar-year-title"> {{ year.title }} </h4>
-      <p> {{ year.content }} </p>
+      {{ year.content }}
     </div>
     {% endfor %}
   </div>
