@@ -3,8 +3,8 @@
 
 menu:
 - { name: 'catalogue', url: 'catalogue' }
-- { name: 'cv',        url: 'cv' }
 - { name: 'contact',   url: 'contact' }
+- { name: 'cv',        url: 'cv' }
 
 #-------------------------------
 # Projects Section
