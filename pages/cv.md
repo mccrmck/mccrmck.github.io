@@ -12,9 +12,9 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
 |AWARDS/GRANTS|||
 |:---|:---:|---:|
-|2023|Diversestipend | Oslo Municipality|
+|2023|Diversestipend|Oslo Municipality|
 |2022|Start-up Grant | Oslo Municipality|
-|2021|Project support | Fund for Sound and Picture|
+|2021|Project support|Fund for Sound and Picture|
 |2021|Stipend for Oslo-based Musicians | Oslo Municipality|
 |2021|Specialization Stipend | Norwegian Jazz Forum|
 |2021|TONO Stipend | TONO|
@@ -27,8 +27,8 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
 |RESIDENCIES|||
 |:---|:---:|---:|
-|2023|ICST Tempo Polyphony Artist-In-Residence | Zürich, Switzerland|
-|2022|Visby International Centre for Composers | Visby, Sweden|
+|2023|ICST Tempo Polyphony Artist-In-Residence|Zürich, Switzerland|
+|2022|Visby International Centre for Composers|Visby, Sweden|
 |2020|Leveld Kunstnartun | Ål i Hallingdal, Norway|
 |2019|Untitled Space July Artist-In-Residence | Shanghai, China|
 |2018|Self-directed composition residency | Porto, Portugal|
