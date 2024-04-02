@@ -5,19 +5,28 @@ permalink: /cv/eng
 ---
 
 # cv
+<!---
 Mike McCormick (he/him) // artist • programmer
 Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
+--->
 
-AWARDS/GRANTS 2023		Diversestipend | Oslo Municipality
-2022         Start-up Grant | Oslo Municipality
-2021         Project support | Fund for Sound and Picture
-2021         Stipend for Oslo-based Musicians | Oslo Municipality
-2021         Specialization Stipend | Norwegian Jazz Forum
-2021         TONO Stipend | TONO
-2020         Publishing Grant for Music Recordings | Norwegian Kulturfond 2020         Concept to Realization Grant | Canada Council for the Arts 2019         Commission Support | The Norwegian Composer’s Fund 2018         Concept to Realization Grant | Canada Council for the Arts 
-2014         Don Wright Scholarship | University of Toronto 2013         First Prize | Galaxie Rising Stars Program
+|AWARDS/GRANTS|||
+|:---|:---:|---:|
+|2023|Diversestipend | Oslo Municipality|
+|2022|Start-up Grant | Oslo Municipality|
+|2021|Project support | Fund for Sound and Picture|
+|2021|Stipend for Oslo-based Musicians | Oslo Municipality|
+|2021|Specialization Stipend | Norwegian Jazz Forum|
+|2021|TONO Stipend | TONO|
+|2020|Publishing Grant for Music Recordings | Norwegian Kulturfond|
+|2020|Concept to Realization Grant | Canada Council for the Arts|
+|2019|Commission Support | The Norwegian Composer’s Fund|
+|2018|Concept to Realization Grant | Canada Council for the Arts|
+|2014|Don Wright Scholarship | University of Toronto|
+|2013|First Prize | Galaxie Rising Stars Program|
 
-RESIDENCIES 2023		ICST Tempo Polyphony Artist-In-Residence | Zürich, Switzerland
+RESIDENCIES 
+2023		ICST Tempo Polyphony Artist-In-Residence | Zürich, Switzerland
 2022         Visby International Centre for Composers | Visby, Sweden
 2020         Leveld Kunstnartun | Ål i Hallingdal, Norway 2019         Untitled Space July Artist-In-Residence | Shanghai, China 2018         Self-directed composition residency | Porto, Portugal 2018         Westben Performer-Composer Residency | Campbellford, Canada 2017         Performing Arts Forum | St. Erme, France 
 WORKSHOPS/CONFERENCES 2023		Keynote: FLOSS every day | MINU_festival for expanded music
