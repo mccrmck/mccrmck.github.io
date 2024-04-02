@@ -10,6 +10,7 @@ Mike McCormick (he/him) // artist • programmer
 Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 --->
 
+<div class="cv-table" style="width: 100%;">
 |AWARDS/GRANTS|||
 |:---|:---:|---:|
 |2023|Diversestipend | Oslo Municipality|
@@ -24,6 +25,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2018|Concept to Realization Grant | Canada Council for the Arts|
 |2014|Don Wright Scholarship | University of Toronto|
 |2013|First Prize | Galaxie Rising Stars Program|
+</div>
 
 RESIDENCIES 
 2023		ICST Tempo Polyphony Artist-In-Residence | Zürich, Switzerland
