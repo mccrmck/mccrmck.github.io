@@ -2,21 +2,23 @@
 # General Site Settings
 
 menu:
-- { name: 'catalogue', url: 'catalogue' }
-- { name: 'contact',   url: 'contact' }
-- { name: 'cv',        url: 'cv/eng' }
+# - { name: 'catalogue', url: 'catalogue' }
+# - { name: 'contact',   url: 'contact' }
+# - { name: 'cv',        url: 'cv/eng' }
 
 #-------------------------------
 # Calendar
-calendar:
-- { year: '2024' }
-- { year: '2023' }
-- { year: '2022' }
+# calendar:
+# - { year: '2024' }
+# - { year: '2023' }
+# - { year: '2022' }
 
 #-------------------------------
 # Projects Section
 
 projects:
+- {name: 'acousmatic', url: 'eam'}
+- {name: 'proxemics', url: 'proxemics'}
 - {name: 'under: went',  url: 'underwent'}
 - {name: 'YAWN',  url: 'yawn'}
 
