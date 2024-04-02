@@ -11,7 +11,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 --->
 
 |AWARDS/GRANTS|||
-|:---|:---:|---:|
+|:---|:---|---:|
 |2023|Diversestipend|Oslo Municipality|
 |2022|Start-up Grant | Oslo Municipality|
 |2021|Project support|Fund for Sound and Picture|
@@ -26,7 +26,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2013|First Prize | Galaxie Rising Stars Program|
 
 |RESIDENCIES|||
-|:---|:---:|---:|
+|:---|:---|---:|
 |2023|ICST Tempo Polyphony Artist-In-Residence|Zürich, Switzerland|
 |2022|Visby International Centre for Composers|Visby, Sweden|
 |2020|Leveld Kunstnartun | Ål i Hallingdal, Norway|
@@ -36,7 +36,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2017|Performing Arts Forum | St. Erme, France|
 
 |WORKSHOPS/CONFERENCES|||
-|:---|:---:|---:|
+|:---|:---|---:|
 |2023|Keynote: FLOSS every day | MINU_festival for expanded music|
 |2022|Embodied Perspectives on Musical AI | University of Oslo|
 |2022| Fluid Corpus Manipulation Workshop | Notam, Oslo|
@@ -51,7 +51,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2012|Jazzworks Creative Workshop | Edmonton International Jazz Festival|
 
 |TEACHING|||
-|:---|:---:|---:|
+|:---|:---|---:|
 |2021|Guest Lecture | Online, hosted by University of Stavanger|
 |2021|SuperCollider Lecture | Online, hosted by Temple University|
 |2020|SuperCollider Lecture | Online, hosted by the Canadian League of Composers|
@@ -69,8 +69,8 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2009|Diploma in Jazz and Popular Music Performance | Grant MacEwan University|
 
 |RELEASES|||
-|:---|:---:|---:|
-|2024||Noe gøy på M | OJKOS / Magnus Murphy Joelson|
+|:---|:---|---:|
+|2024|Noe gøy på M | OJKOS / Magnus Murphy Joelson|
 |2023|Graosido | OJKOS / Knut Kvifte Nesheim|
 |2022|Let them eat the rich | ternOP|
 |2022|Mensa Rotunda | OJKOS / Andreas Rotevatn|
