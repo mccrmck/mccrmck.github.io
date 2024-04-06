@@ -31,7 +31,6 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2022|Visby International Centre for Composers|Visby, Sweden|
 |2020|Leveld Kunstnartun | Ål i Hallingdal, Norway|
 |2019|Untitled Space July Artist-In-Residence | Shanghai, China|
-|2018|Self-directed composition residency | Porto, Portugal|
 |2018|Westben Performer-Composer Residency | Campbellford, Canada|
 |2017|Performing Arts Forum | St. Erme, France|
 
@@ -61,7 +60,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2018|Improvisation & SuperCollider | Institute for Music and Media, Germany|
 
 |EDUCATION|||
-|:---|:---:|---:|
+|:---|:---|---:|
 |2024|Continuing studies in Contemporary Music | The Norwegian Academy of Music|
 |2019|Master of Performing Music Technology | The Norwegian Academy of Music|
 |2017|Master of Music Performance | The Norwegian Academy of Music|
@@ -85,8 +84,12 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2018|First Frost | BRINICLE|
 
 SELECTED WORKS
-large ensemble 2022       control_structures | jazz orchestra 55’
-2021       work song | jazz orchestra 5’ 2020       morning, in a sense | jazz orchestra 5’30” 2019       The Northwest Passage | jazz orchestra 55’ 2018       smelt ore | jazz orchestra 5’30”
+large ensemble 
+2022       control_structures | jazz orchestra 55’
+2021       work song | jazz orchestra 5’
+2020       morning, in a sense | jazz orchestra 5’30” 
+2019       The Northwest Passage | jazz orchestra 55’ 
+2018       smelt ore | jazz orchestra 5’30”
 
 chamber music
 2023	      with a droc instead of a borbin | polytempic jazz quintet 22’
@@ -128,23 +131,30 @@ tributaries (one-measure miniatures)
 2017       tell me, math witch
 2017       usable donkey deed
 
-multimedia 2023       Coastline Paradox | light installation
+multimedia 
+2023       Coastline Paradox | light installation
 2022       Visit [Under Revision] | video installation 10’51”
 2020       SC Journal #2 | audiovisual performance 17’15"
 2019       SC Journal #1 | audiovisual performance 13’57”
 
 electroacoustic
 2021       Not quite a roopat, but rather glostibular | Higher-Order Ambisonics 8’06”
-2019       EIDOLON | interactive improvisation algorithm 2019       Zhujiajiao study | stereo acousmatic 7’35”
-2018       pyramidg | generative composition 2018       with|in | performative installation 2016       mind’s ear | generative installation
+2019       EIDOLON | interactive improvisation algorithm 
+2019       Zhujiajiao study | stereo acousmatic 7’35”
+2018       pyramidg | generative composition 
+2018       with|in | performative installation 
+2016       mind’s ear | generative installation
 
 sound design
 2021       In-betweenness | dance performance by Lisa Colette Bysheim 30’
 2021       IF ONLY | dance performance by Lisa Colette Bysheim 45’
 
-ADMINISTRATIVE WORK 2024-        Working group | Verdensrommet
+ADMINISTRATIVE WORK 
+2024-        Working group | Verdensrommet
 2023-24    SuperCollider Meetup host | Notam
-2020-24    Co-chair/treasurer | nyMusikks komponistgruppe 2019-21    Booking Manager | OJKOS 2019-20    Co-Producer | Making Waves: Laying the Groundwork for The Future of Music Technology
+2020-24    Co-chair/treasurer | nyMusikks komponistgruppe 
+2019-21    Booking Manager | OJKOS 
+2019-20    Co-Producer | Making Waves: Laying the Groundwork for The Future of Music Technology
 
 MEMBERSHIPS
 Norsk Komponistforening
