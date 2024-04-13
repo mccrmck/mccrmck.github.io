@@ -1,3 +1,4 @@
 # mccrmck.com
-[workshop materials](https://github.com/mccrmck/Workshops/tree/main/MINU) <br>
-under construction - coming soon!
+
+code for [mccrmck.com](mccrmck.com)
+relied on [this site](https://github.com/LeNPaul/portfolio-jekyll-theme/tree/gh-pages) as a starting point

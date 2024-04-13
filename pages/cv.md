@@ -10,18 +10,18 @@ Mike McCormick (he/him) // artist • programmer
 Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 --->
 
-|AWARDS/GRANTS|||
+|AWARDS/GRANTS|
 |:---|:---|---:|
-|2023|Diversestipend|Oslo Municipality|
-|2022|Start-up Grant | Oslo Municipality|
-|2021|Project support|Fund for Sound and Picture|
-|2021|Stipend for Oslo-based Musicians | Oslo Municipality|
-|2021|Specialization Stipend | Norwegian Jazz Forum|
-|2021|TONO Stipend | TONO|
-|2020|Publishing Grant for Music Recordings | Norwegian Kulturfond|
-|2020|Concept to Realization Grant | Canada Council for the Arts|
-|2019|Commission Support | The Norwegian Composer’s Fund|
-|2018|Concept to Realization Grant | Canada Council for the Arts|
+|2023|Diversestipend|Oslo kommune|
+|2022|Etableringsstipend|Oslo kommune|
+|2021|Project support|Fond for lyd og bilde|
+|2021|Kunstnerstipend| Oslo kommune|
+|2021|Fordypningsstipend|Norsk jazzforum|
+|2021|TONO Stipend|TONO|
+|2020|Publiseringsstøtte for musikkinnspillinger|Norsk kulturfond|
+|2020|Concept to Realization Grant| Canada Council for the Arts|
+|2019|Bestillingssverkstøtte|Det norske komponistfond|
+|2018|Concept to Realization Grant| Canada Council for the Arts|
 |2014|Don Wright Scholarship | University of Toronto|
 |2013|First Prize | Galaxie Rising Stars Program|
 
@@ -42,7 +42,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2019|BEAST FEaST | University of Birmingham|
 |2018|November Space | The Royal College of Music, Stockholm|
 |2018|Nord+Mix Spatial Sound Workshop | Lithuanian Academy of Music and Theatre|
-|2017/18||RENEW: Reflective Entrepreneurship Music Education Worldclass|
+|2017/18|RENEW: Reflective Entrepreneurship Music Education Worldclass|The Association Européenne des Conservatoires, Académies de Musique et Musikhochschulen|
 |2017|International Summer Workshop | Siena Jazz|
 |2017|Jazz Composition Workshop | Copenhagen Rhythmic Music Conservatory|
 |2014|International Workshop in Jazz and Creative Music | Banff Center for the Arts|
@@ -58,7 +58,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2019|Improvisation & SuperCollider | Tbilisi State Conservatoire, Georgia|
 |2018|SuperCollider | Performer-Composer Residency, Canada|
 |2018|Improvisation & SuperCollider | Institute for Music and Media, Germany|
-
+  
 |EDUCATION|||
 |:---|:---|---:|
 |2024|Continuing studies in Contemporary Music | The Norwegian Academy of Music|
@@ -83,81 +83,87 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2018|The Proxemics EP | Mike McCormick|
 |2018|First Frost | BRINICLE|
 
-SELECTED WORKS
-large ensemble 
-2022       control_structures | jazz orchestra 55’
-2021       work song | jazz orchestra 5’
-2020       morning, in a sense | jazz orchestra 5’30” 
-2019       The Northwest Passage | jazz orchestra 55’ 
-2018       smelt ore | jazz orchestra 5’30”
+|SELECTED WORKS|
+|:---|:---|---:|
+|**large ensemble**|
+|2022|control_structures 55'|jazz orchestra|
+|2021|work song 5'|jazz orchestra|
+|2020|morning, in a sense 5'30"|jazz orchestra| 
+|2019|The Northwest Passage 55'|jazz orchestra| 
+|2018|smelt ore 5'30"|jazz orchestra|
+||
+|**chamber music**|
+|2023|with a droc instead of a borbin 22'| polytempic jazz quintet|
+|2023|under: went 40'| soprano and electronics|
+|2022|5 short tempoems 5'20"| percussion trio|
+|2019|wintermezzo 7' | flute, cello, piano, and two assistants|
+|2017/19|panjandrum 15'|six percussionists w/ assistant|
+|2018|FATES | two voices and electronics
+|2017|abraham’s son | mixed septet|
+|2017|big smoke | mixed septet|
+|2017|gutrot | mixed septet|
+|2016|alloys\|allies | brass quintet|
+|2016|Flesh & Blood: Anaïs Nin’s “Father Story” | solo performer w/ assistant|
+|2016|MOO)))N | choir, electric guitar and drum kit|
+|2016|our gems (morgues) | viola, french horn, and vibraphone|
+|2016|presque les bois | piano, trumpet, electric guitar and percussion|
+||
+|**proxemic studies**|
+|2018|in\|takt | voice, trumpet, electric guitar, drum kit|
+|2018|kon\|takt | voice, trumpet, electric guitar, drum kit|
+|2018|madness | voice, trumpet, electric guitar, drum kit|
+|2018|moment: us | voice, trumpet, electric guitar, vibraphone|
+|2018|triptych: I | voice, trumpet, electric guitar, drum kit|
+|2018|triptych: II | voice, trumpet, electric guitar, drum kit|
+|2018|triptych: III | voice, trumpet, electric guitar, drum kit|
+|2017|delicate matters | voice, trumpet, electric guitar, drum kit|
+|2017|isaac | voice, trumpet, electric guitar, drum kit|
+|2016|alvorada | voice, trumpet, electric guitar, drum kit|
+|2016|moving on | voice, trumpet, electric guitar, drum kit|
+|2016|over mountains (clouds) | voice, trumpet, electric guitar, vibraphone|
+|2016|woodyard | voice, trumpet, electric guitar, drum kit|
+||
+|**multimedia**|
+|2023|Coastline Paradox|light installation|
+|2022|Visit [Under Revision] 10'51"|video installation|
+|2020|SC Journal #2 17'15"| audiovisual performance|
+|2019|SC Journal #1 13'57"| audiovisual performance|
+||
+|**electroacoustic**|
+|2021|Not quite a roopat, but rather glostibular 8'06"| 7th-Order Ambisonics|
+|2019|EIDOLON|interactive improvisation algorithm|
+|2019|Zhujiajiao study 7'35"| stereo acousmatic|
+|2018|pyramidg | generative composition|
+|2018|with\|in | performative installation|
+|2016|mind’s ear| generative installation|
+||
+|**sound design**|
+|2021|In-betweenness 30'|dance performance by Lisa Colette Bysheim|
+|2021|IF ONLY 45'|dance performance by Lisa Colette Bysheim|
 
-chamber music
-2023	      with a droc instead of a borbin | polytempic jazz quintet 22’
-2023       under: went | soprano and electronics 40’
-2022       5 short tempoems | percussion trio 5’20”
-2019       wintermezzo | flute, cello, piano, and two assistants 7’
-2017/19  panjandrum | six percussionists w/ assistant 15’
-2018       FATES | two voices and electronics
-2017       abraham’s son | mixed septet
-2017       big smoke | mixed septet
-2017       gutrot | mixed septet
-2016       alloys|allies | brass quintet
-2016       Flesh & Blood: Anaïs Nin’s “Father Story” | solo performer w/ assistant
-2016       MOO)))N | choir, electric guitar and drum kit
-2016       our gems (morgues) | viola, french horn, and vibraphone
-2016       presque les bois | piano, trumpet, electric guitar and percussion
 
-proxemic studies
-2018       in|takt | voice, trumpet, electric guitar, drum kit
-2018       kon|takt | voice, trumpet, electric guitar, drum kit
-2018       madness | voice, trumpet, electric guitar, drum kit
-2018       moment: us | voice, trumpet, electric guitar, vibraphone
-2018       triptych: I | voice, trumpet, electric guitar, drum kit
-2018       triptych: II | voice, trumpet, electric guitar, drum kit
-2018       triptych: III | voice, trumpet, electric guitar, drum kit
-2017       delicate matters | voice, trumpet, electric guitar, drum kit
-2017       isaac | voice, trumpet, electric guitar, drum kit
-2016       alvorada | voice, trumpet, electric guitar, drum kit
-2016       moving on | voice, trumpet, electric guitar, drum kit
-2016       over mountains (clouds) | voice, trumpet, electric guitar, vibraphone
-2016       woodyard | voice, trumpet, electric guitar, drum kit
+<!---
+|**tributaries (one-measure miniatures)**|
+|2018|haziest shrunken cloak|
+|2018|worn coral cannon|
+|2017|adult via zen|
+|2017|mildest wandering scum|
+|2017|shy june|
+|2017|tell me, math witch|
+|2017|usable donkey deed|
+--->
 
-tributaries (one-measure miniatures)
-2018       haziest shrunken cloak
-2018       worn coral cannon
-2017       adult via zen
-2017       mildest wandering scum
-2017       shy june
-2017       tell me, math witch
-2017       usable donkey deed
+|ADMINISTRATIVE WORK|||
+|:---|---|---:|
+|2024-  |Working group|Verdensrommet|
+|2023-24|SuperCollider Meetup host|Notam|
+|2020-24|Co-chair/treasurer | nyMusikks komponistgruppe|
+|2019-21|Booking Manager|OJKOS|
+|2019-20|Co-Producer|Making Waves: Laying the Groundwork for The Future of Music Technology|
 
-multimedia 
-2023       Coastline Paradox | light installation
-2022       Visit [Under Revision] | video installation 10’51”
-2020       SC Journal #2 | audiovisual performance 17’15"
-2019       SC Journal #1 | audiovisual performance 13’57”
-
-electroacoustic
-2021       Not quite a roopat, but rather glostibular | Higher-Order Ambisonics 8’06”
-2019       EIDOLON | interactive improvisation algorithm 
-2019       Zhujiajiao study | stereo acousmatic 7’35”
-2018       pyramidg | generative composition 
-2018       with|in | performative installation 
-2016       mind’s ear | generative installation
-
-sound design
-2021       In-betweenness | dance performance by Lisa Colette Bysheim 30’
-2021       IF ONLY | dance performance by Lisa Colette Bysheim 45’
-
-ADMINISTRATIVE WORK 
-2024-        Working group | Verdensrommet
-2023-24    SuperCollider Meetup host | Notam
-2020-24    Co-chair/treasurer | nyMusikks komponistgruppe 
-2019-21    Booking Manager | OJKOS 
-2019-20    Co-Producer | Making Waves: Laying the Groundwork for The Future of Music Technology
-
-MEMBERSHIPS
-Norsk Komponistforening
-Norsk jazzforum
-Creo – forbundet for kunst og kultur
-nyMusikks komponistgruppe
+|MEMBERSHIPS|||
+|:---|---|---:|
+|2019-|Norsk Komponistforening||
+|2019-|nyMusikks komponistgruppe||
+|2018-|Norsk jazzforum||
+|2018-|Creo – forbundet for kunst og kultur||

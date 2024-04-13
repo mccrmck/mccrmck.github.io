@@ -5,5 +5,5 @@ permalink: /contact
 ---
 
 # contact
-
-// gotta make an image-grid class for this page and for the catalogue page
+under construction - coming soon!
+<!---gotta make an image-grid class for this page and for the catalogue page--->
