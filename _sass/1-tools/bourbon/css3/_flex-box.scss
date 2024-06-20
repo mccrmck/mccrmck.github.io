@@ -78,7 +78,7 @@
         display: flex;
     }
 
-    @elseif $value == "inline-flex" {
+    @else if $value == "inline-flex" {
         display: -webkit-inline-box;
         display: -moz-inline-box;
         display: inline-box;
@@ -124,16 +124,16 @@
         $value-2009: horizontal;
     }
 
-    @elseif $value == "row-reverse" {
+    @else if $value == "row-reverse" {
         $value-2009: horizontal;
         $direction: reverse;
     }
 
-    @elseif $value == column {
+    @else if $value == column {
         $value-2009: vertical;
     }
 
-    @elseif $value == "column-reverse" {
+    @else if $value == "column-reverse" {
         $value-2009: vertical;
         $direction: reverse;
     }
@@ -162,11 +162,11 @@
         $alt-value: single;
     }
 
-    @elseif $value == wrap {
+    @else if $value == wrap {
         $alt-value: multiple;
     }
 
-    @elseif $value == "wrap-reverse" {
+    @else if $value == "wrap-reverse" {
         $alt-value: multiple;
     }
 

@@ -27,9 +27,7 @@ projects:
 
 social:
 - {icon: 'bandcamp',  link: 'https://mccrmck.bandcamp.com'}
-- {icon: 'facebook',  link: 'https://www.facebook.com/mccrmck.art'}
 - {icon: 'github',    link: 'https://github.com/mccrmck'}
-- {icon: 'instagram', link: 'https://www.instagram.com/mccormick.mike.r/'}
 - {icon: 'youtube',   link: 'https://www.youtube.com/@mccrmck_' }
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
