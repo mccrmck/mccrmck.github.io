@@ -5,4 +5,5 @@ permalink: /catalogue
 ---
 
 # catalogue
-under construction - coming soon!
+
+{% include catalogue.html %}

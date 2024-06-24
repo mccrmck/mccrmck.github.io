@@ -1,7 +1,7 @@
 ---
 layout: page
 title: cv
-permalink: /cv/eng
+permalink: /cv
 ---
 
 # cv
@@ -10,11 +10,11 @@ Mike McCormick (he/him) // artist • programmer
 Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 --->
 
-|AWARDS/GRANTS|
+|AWARDS/GRANTS|||
 |:---|:---|---:|
 |2023|Diversestipend|Oslo kommune|
 |2022|Etableringsstipend|Oslo kommune|
-|2021|Project support|Fond for lyd og bilde|
+|2021|Prosjektstøtte|Fond for lyd og bilde|
 |2021|Kunstnerstipend| Oslo kommune|
 |2021|Fordypningsstipend|Norsk jazzforum|
 |2021|TONO Stipend|TONO|
@@ -51,9 +51,9 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
 |TEACHING|||
 |:---|:---|---:|
-|2021|Guest Lecture | Online, hosted by University of Stavanger|
-|2021|SuperCollider Lecture | Online, hosted by Temple University|
-|2020|SuperCollider Lecture | Online, hosted by the Canadian League of Composers|
+|2021|Guest Lecture | Online, University of Stavanger|
+|2021|SuperCollider Lecture | Online, Temple University|
+|2020|SuperCollider Lecture | Online, Canadian League of Composers|
 |2019/20|The Future of Music Technology | Tbilisi State Conservatoire, Georgia|
 |2019|Improvisation & SuperCollider | Tbilisi State Conservatoire, Georgia|
 |2018|SuperCollider | Performer-Composer Residency, Canada|
@@ -69,6 +69,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
 |RELEASES|||
 |:---|:---|---:|
+|2024|Om tålmodighet| OJKOS / Henriette Eilertsen|
 |2024|Noe gøy på M | OJKOS / Magnus Murphy Joelson|
 |2023|Graosido | OJKOS / Knut Kvifte Nesheim|
 |2022|Let them eat the rich | ternOP|
@@ -125,7 +126,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 ||
 |**multimedia**|
 |2023|Coastline Paradox|light installation|
-|2022|Visit [Under Revision] 10'51"|video installation|
+|2022|Visit [Under Revision] |video installation|
 |2020|SC Journal #2 17'15"| audiovisual performance|
 |2019|SC Journal #1 13'57"| audiovisual performance|
 ||
@@ -138,8 +139,8 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2016|mind’s ear| generative installation|
 ||
 |**sound design**|
-|2021|In-betweenness 30'|dance performance by Lisa Colette Bysheim|
-|2021|IF ONLY 45'|dance performance by Lisa Colette Bysheim|
+|2021|In-betweenness 30'|dance performance by [Lisa Colette Bysheim](https://www.lisacolettebysheim.com)|
+|2021|[IF ONLY](https://www.lisacolettebysheim.com/ifonly) 45'|dance performance by [Lisa Colette Bysheim](https://www.lisacolettebysheim.com)|
 
 
 <!---
@@ -153,6 +154,12 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 |2017|usable donkey deed|
 --->
 
+|WRITING|||
+|:---|---|---:|
+|2023|["Metal, samtid, kunstpop og en trang til å gå"](https://www.ballade.no/metal/metal-urges-med-oslo-sinfonietta-enslaved-og-jenny-hval-pa-ultima-metal-samtid-kunstpop-og-en-trang-til-a-ga/)|Ballade.no|
+|2023|[Unofficial Channels: Metal Music Theory](https://www.thewire.co.uk/issues/473)|The Wire (issue 473)|
+|2023|["Gratis utdanning er ikke gratis – og allerede ganske dyr for noen"](https://www.ballade.no/politikk-debatt/gratis-utdanning-er-ikke-gratis-og-allerede-ganske-dyr-for-noen/)|Ballade.no|
+
 |ADMINISTRATIVE WORK|||
 |:---|---|---:|
 |2024-  |Working group|Verdensrommet|
@@ -163,7 +170,7 @@ Oslo, Norway | +47 92264949 | mccormick.mike.r@gmail.com | mccrmck.com
 
 |MEMBERSHIPS|||
 |:---|---|---:|
-|2019-|Norsk Komponistforening||
-|2019-|nyMusikks komponistgruppe||
-|2018-|Norsk jazzforum||
-|2018-|Creo – forbundet for kunst og kultur||
+|2019-||Norsk Komponistforening|
+|2019-||nyMusikks komponistgruppe|
+|2018-||Norsk jazzforum|
+|2018-||Creo – forbundet for kunst og kultur|

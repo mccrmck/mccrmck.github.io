@@ -1,0 +1,42 @@
+.home-image-container
+  position: relative
+  display: grid
+  grid-template-columns: 1fr 1fr
+  margin: auto
+  width: 100%
+  height: auto
+
+  .home-image
+    width: 100%
+    height: auto
+    margin: 0
+
+  .image
+    display: block
+    width: 100%
+    height: auto
+
+  .img-credit
+    font:
+      size: 12px
+      style: italic
+
+  .home-text-container 
+    position: relative
+    width: 100%
+    height: auto
+    margin: 0
+    text-align: justify
+    text-justify: inter-word
+
+  .home-text
+    display: inline-block
+    vertical-align: middle
+    padding: 0 10px
+    margin: 0
+
+@media (max-width: 768px)
+  .home-image-container 
+    grid-template-columns: 1fr
+  .home-text
+    padding: 0

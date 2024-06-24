@@ -1,40 +1,65 @@
 header
   height: 90px
   width: 100%
-  .logo
-    float: left
-    margin: 30px 30px 30px 0px
-    font:
-      size: 30px
-      weight: 700
-    a
-      display: inline-block
-      color: rgba(0,0,0,1)
-      &:hover
-        color: $accent-color
+
   nav
-    float: right
-    margin: 30px 0px 0 0
-    a
+    float: left
+    margin: 30px 0px 0px 0px
+
+    .nav-menu
       display: inline-block
-      margin-left: 20px
-      color: rgba(0,0,0,1)
+           
+    .nav-link
+      display: inline-block
+      z-index: 0
+      position: relative
+      overflow: hidden
       font:
-        size: 22px
-        weight: 700
-      &:hover
+          color: black
+          size: 2.4em
+          weight: 700
+      text-decoration: underline
+      margin-right: -6%
+      width: 1ch
+      transition: color 1.5s, margin-left 1.5s, margin-right 1.5s, width 1.5s 
+      transition-timing-function: ease-in-out
+
+      &.hover-effect
         color: $accent-color
+        margin-left: 2%
+        margin-right: -4%
+        &#mccrmck
+          margin-left: 0%
+          width: 7ch
+        &#calendar
+          width: 8ch
+        &#catalogue
+          margin-left: 3%
+          margin-right: -3.2%
+          width: 9ch
+        &#reach
+          margin-left: 1.7%
+          margin-right: -3%
+          width: 5ch
+        &#musings
+          margin-right: -3.5%
+          width: 7ch
+        &#collaborators
+          margin-left: 3.3%
+          margin-right: -2.8%
+          width: 13ch
+        &#kwalifikayshuns
+          margin-left: 3%
+          width: 15ch
+      a
+        position: relative
+        z-index: -2
+        color: $textColor
+        transition: color 1s, z-index 0s
+        transition-delay: 0.5s
+        transition-timing-function: ease-in-out
+        &.hover-effect
+          z-index: 2
+          color: $accent-color
 
 @media (max-width: 768px)
-  header
-    .logo
-      margin: 10px 30px 0px 0px
-    nav
-      margin: 0px
-      margin-top: 18px
-      float: left
-      a
-        margin-left: 20px
-        margin-right: 0px
-        font:
-          size: 18px

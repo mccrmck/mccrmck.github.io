@@ -1,29 +1,43 @@
 #-------------------------------
 # General Site Settings
-
 menu:
+- { name: 'mccrmck',  url: ''}
+- { name: 'calendar',  url: 'calendar'}
 - { name: 'catalogue', url: 'catalogue' }
-- { name: 'contact',   url: 'contact' }
-- { name: 'cv',        url: 'cv/eng' }
+- { name: 'reach', url: 'reach' }
+- { name: 'musings', url: 'musings'}
+- { name: 'collaborators',   url: 'collaborators' }
+- { name: 'kwalifikayshuns', url: 'cv' }
 
 #-------------------------------
-# Calendar
-# calendar:
-# - { year: '2024' }
-# - { year: '2023' }
-# - { year: '2022' }
-
+# catalogue
+catalogue:
+  #- {path: , url,} Henriette's new record
+  #- {path: , url,} noe goy paa M
+- {path: 'graosido.jpg' , url: 'https://knutkviftenesheim.bandcamp.com/album/graosido' } # 05.23
+- {path: 'eatRich.jpg' , url: '' } # 06.22
+- {path: 'mensa.jpg' , url: 'https://ojkos.bandcamp.com/album/mensa-rotunda' } # 0.5.22
+- {path: 'materialism.jpg' , url: '' } # 02.22
+- {path: 'johannescamilla.jpg' , url: 'https://johannesfossesolvangcamillahole.bandcamp.com/album/miniatyrland' } # 12.21
+- {path: 'flute.jpg' , url: 'https://henrietteeilertsen.bandcamp.com/album/poems-for-flute' } # 09.21
+- {path: 'alea.jpg' , url: 'https://ojkos.bandcamp.com/album/alea-iacta-est' } # 05.20
+- {path: 'nethuns.jpg' , url: 'https://dugnadrec.bandcamp.com/album/nethuns-music-for-14-piece-ensemble' } # 03.20
+- {path: 'proxemicsI.jpg' , url: '' } # 02.20
+- {path: 'pep.jpg' , url: '' } # 11.18
+- {path: 'frost.jpg' , url: 'https://mccrmck.bandcamp.com/album/first-frost' } # 05.18
+# - {path: 'solotet.jpg' , url: '' }
 #-------------------------------
 # Projects Section
 
 projects:
 - {name: 'acousmatic', url: 'eam'}
+- {name: 'NSFW', url: 'nsfw'}
 - {name: 'proxemics', url: 'proxemics'}
 - {name: 'under: went',  url: 'underwent'}
 - {name: 'YAWN',  url: 'yawn'}
 
 #-------------------------------
-# Contact Section
+# Footer
 
 social:
 - {icon: 'bandcamp',  link: 'https://mccrmck.bandcamp.com'}

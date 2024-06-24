@@ -1,10 +1,31 @@
 <header>
-  <div class="logo">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </div>
-  <nav>
-    {% for item in site.data.settings.menu %}
-      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-    {% endfor %}
-  </nav>
+    <nav>
+        <div class="nav-menu">
+            {% for item in site.data.settings.menu %}
+            <div class="nav-link" id={{item.name}} >
+                <a href="{{ site.github.url }}/{{ item.url }}">{{item.name}}</a>
+            </div>
+            {% endfor %}
+        </div>
+    </nav>
+    <script>
+    const elements = document.querySelectorAll(".nav-link");
+
+    elements.forEach((element) => {
+        element.addEventListener("pointerenter", () => {
+            elements.forEach((el) => {
+                el.classList.remove("hover-effect")
+                el.children[0].classList.remove("hover-effect")
+            });
+            element.classList.add("hover-effect");
+            element.children[0].classList.add("hover-effect");
+            setTimeout(function(){ 
+                element.classList.remove("hover-effect");
+                element.children[0].classList.remove("hover-effect");
+            }, 3000)
+        })
+    });
+    </script>
 </header>
+
+

@@ -1,0 +1,9 @@
+<div class ="catalogue-gallery">
+    {% for image in site.data.settings.catalogue %}
+    <div class="catalogue-box">
+        <a href="{{ image.url }}" target="_blank">
+            <img class="catalogue-image" src="{{ site.github.url }}/assets/img/catalogue/{{image.path}}" alt="{{ image.path }}"/>
+        </a>
+    </div>
+    {% endfor %}
+</div>

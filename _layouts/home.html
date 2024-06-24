@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-
 <section>
-  <div class="calendar-container">
-    {% for year in site.calendar reversed %}
-    <div class="calendar-year">
-      <h4 class="calendar-year-title"> {{ year.title }} </h4>
-      <div class="calendar-ul"> {{ year.content }} </div>
+    <div class="home-image-container">
+        <figure class="home-image">
+            <img src="{{ site.github.url }}/assets/img/home.jpg" alt="mccrmck.com" class="image">
+            <figcaption class="img-credit">photo: Emil Vestre + post processing by meee</figcaption>
+        </figure>
+        <div class="home-text-container">
+            <p class="home-text">Mike McCormick <a href="https://www.mypronouns.org/he-him" target="_blank" rel="noreferrer noopener">(he/him)</a> is an artist and programmer working with sound, text, and visual media. Equally inspired by the constrained writing techniques of the Oulipo and the technomaterialism espoused by <a href="https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/" target="_blank">Xenofeminism</a>, his work combines custom algorithms with human performers and autobiographical material to explore human intimacy, male vulnerability, and our relationship with emerging technologies. He grew up in Canada’s subarctic, lived nomadically for a decade, and has been based in Oslo since 2017.</p>
+        </div>
     </div>
-    {% endfor %}
-  </div>
 </section>

@@ -1,9 +1,10 @@
 <section>
   <div class="calendar-container">
-    {% for year in site.data.settings.calendar.directory.documents %}
-        <div class="calendar-year">
-          <p> {{ content }}</p>
-        </div>
+    {% for year in site.calendar reversed %}
+    <div class="calendar-year">
+      <h4 class="calendar-year-title"> {{ year.title }} </h4>
+      <div class="calendar-ul"> {{ year.content }} </div>
+    </div>
     {% endfor %}
   </div>
 </section>
