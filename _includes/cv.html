@@ -1,0 +1,14 @@
+<section>
+    <div>
+        {% for section in site.cv %}
+        <div class="cv-section">
+            <details name="section">
+                <summary><h5>{{section.title}}</h5></summary>
+                <div class="cv-table" id="{{section.title | split: " " | first}}">
+                    {{ section.content }}
+                </div>
+            </details>
+        </div>
+        {% endfor %}
+    </div>
+</section>

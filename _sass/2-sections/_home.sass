@@ -1,0 +1,44 @@
+.home-image-container
+  position: relative
+  display: grid
+  grid-template-columns: 1fr 1fr
+  margin: 0
+  width: 100%
+  height: auto
+
+.home-image
+  display: inline-block
+  width: 100%
+  height: auto
+  margin: 0
+
+.image
+  width: 100%
+  height: auto
+
+.img-credit
+  font:
+    style: italic
+
+.home-text-container 
+  position: relative
+  display: inline-block
+  width:  auto
+  height: auto
+  margin: auto
+  text-align: justify
+  text-justify: auto
+
+.home-text 
+  padding: 0 16px
+    
+    
+@media screen and (orientation: portrait)
+  .home-image-container 
+    grid-template-columns: 1fr
+
+  .home-text-container
+    margin: auto
+
+  .home-text
+    padding: 16px 0

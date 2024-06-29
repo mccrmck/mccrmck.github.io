@@ -7,9 +7,13 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "mccrmck"
+title:		 "mccrmck"
 description: "Mike McCormick"
 author:      "Mike McCormick"
 
 collections:
-- calendar
+  calendar:
+    output: true
+  cv:
+    output: true
+collections_dir: collections

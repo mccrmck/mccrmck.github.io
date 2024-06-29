@@ -1,0 +1,40 @@
+.cv-section
+  summary
+    h5
+      display: inline
+      width: auto
+      margin-left: 8px
+
+  table
+    width: 100%
+    table-layout: fixed
+    overflow-wrap: break-word
+    border-collapse: collapse
+    font:
+      size: 15px
+    td, th
+      vertical-align: top
+    th, strong
+      white-space: nowrap
+    td
+      border-bottom: 1px solid #ddd
+      /*&:nth-child(3n-2)
+        border-right: 2px solid $accent-color*/
+      &:nth-child(3n-1)
+        padding-left: 4px
+  .cv-table    
+    th:nth-child(3n-2)
+      width: 12%
+    th:nth-child(3n-1)
+      width: 44%
+    th:nth-child(3n-0)
+      width: 44%
+
+    /*&#AWARDS*/
+   
+
+      
+@media (max-width: 768px)
+  table 
+    font:
+      size: 13px

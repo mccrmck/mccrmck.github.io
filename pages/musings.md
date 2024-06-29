@@ -3,7 +3,8 @@ layout: page
 title: musings
 permalink: /musings
 ---
-# musings
+
+### musings
 
 <section>
   <div class="blog-container">

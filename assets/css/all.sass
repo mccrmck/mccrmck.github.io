@@ -6,7 +6,7 @@
 
 $accent-color: #d432e6
 $accent: #000000
-$accent-light: adjust-hue(saturate(lighten($accent, 91%), 80%), 14%)
+$accent-light: $accent
 $selectionColor: lighten($accent-color, 30%)
 
 $textColor: #000000
@@ -14,6 +14,5 @@ $headlineColor: #000000
 $bgcolor: #e5eaee
 $documentBackgroundColor: #fff
 
-@import '1-tools/-tools-dir'
-@import '2-base/-base-dir'
-@import '3-sections/-sections-dir'
+@import '1-base/-base-dir'
+@import '2-sections/-sections-dir'
