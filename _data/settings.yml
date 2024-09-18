@@ -12,8 +12,8 @@ menu:
 #-------------------------------
 # catalogue
 catalogue:
-  #- {path: , url,} Henriette's new record
-  #- {path: , url,} noe goy paa M
+- {path: 'taalmodighet' , url: 'https://henrietteeilertsen.bandcamp.com/album/om-t-lmodighet-2' } # 09.24
+- {path: 'noeGoyPaaM' , url: 'https://www.magnusmurphyjoelson.com/noe-gy-pa-metamorfosis' } #05.24
 - {path: 'graosido.jpg' , url: 'https://knutkviftenesheim.bandcamp.com/album/graosido' } # 05.23
 - {path: 'eatRich.jpg' , url: '' } # 06.22
 - {path: 'mensa.jpg' , url: 'https://ojkos.bandcamp.com/album/mensa-rotunda' } # 0.5.22

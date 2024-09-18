@@ -1,4 +1,41 @@
 .calendar-year
-    padding-left: 20px
-  .year
-  
+  summary
+    h5
+      display: inline
+      margin-left: 8px
+
+  .calendar-dropdown
+    display: grid
+    grid-template-columns: 12% auto auto auto
+    
+    .calendar-header
+      display: grid
+      grid-column: 1 / span 4
+      white-space: nowrap
+      padding: 4px 0
+
+    .calendar-item
+      border-bottom: 1px solid #ddd
+      padding: 4px 8px 4px 0
+      &:nth-of-type(4n+4)
+        text-align: right
+        padding-right: 0
+
+@media screen and (max-width: 768px)
+  .calendar-year
+    .calendar-dropdown
+      display: grid
+      grid-template-columns: auto
+       
+      .calendar-header
+        grid-column: 1 / span 1
+
+      .calendar-item
+        text-align: left
+        border-bottom: none
+        &:nth-of-type(4n + 1)
+          font-style: italic
+        &:nth-of-type(4n+4)
+          border-bottom: 1px solid #ddd
+          text-align: left
+

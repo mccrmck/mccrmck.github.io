@@ -2,39 +2,71 @@
   summary
     h5
       display: inline
-      width: auto
       margin-left: 8px
-
-  table
-    width: 100%
-    table-layout: fixed
-    overflow-wrap: break-word
-    border-collapse: collapse
-    font:
-      size: 15px
-    td, th
-      vertical-align: top
-    th, strong
+  
+  .cv-section-dropdown
+    display: grid
+    
+    &#awards, &#workshops, &#education, &#releases, &#selected, &#administrative
+      grid-template-columns: 12% auto auto
+    &#residencies, &#teaching
+      grid-template-columns: 12% auto auto auto
+    &#memberships
+      grid-template-columns: 12% auto
+    
+    .cv-section-header
+      display: grid
+      grid-column: 1 / span 3
       white-space: nowrap
-    td
-      border-bottom: 1px solid #ddd
-      /*&:nth-child(3n-2)
-        border-right: 2px solid $accent-color*/
-      &:nth-child(3n-1)
-        padding-left: 4px
-  .cv-table    
-    th:nth-child(3n-2)
-      width: 12%
-    th:nth-child(3n-1)
-      width: 44%
-    th:nth-child(3n-0)
-      width: 44%
-
-    /*&#AWARDS*/
-   
-
+      padding: 4px 0
       
-@media (max-width: 768px)
-  table 
-    font:
-      size: 13px
+    .cv-section-item
+      border-bottom: 1px solid #ddd
+      padding: 4px 8px 4px 0
+
+      &.awards, &.workshops, &.education, &.releases, &.selected, &.administrative
+        &:nth-of-type(3n + 3)
+          text-align: right
+          padding-right: 0
+      &.residencies, &.teaching
+        &:nth-of-type(4n + 4)
+          text-align: right
+          padding-right: 0
+      &.memberships
+        &:nth-of-type(even)
+          text-align: right
+          padding-right: 0
+      
+@media screen and (max-width: 768px)
+  .cv-section
+    .cv-section-dropdown
+      display: grid
+
+      &#awards, &#residencies, &#workshops, &#teaching, &#education, &#releases, &#selected, &#administrative, &#memberships
+        grid-template-columns: auto
+     
+      .cv-section-header
+        grid-column: 1 / span 1
+
+      .cv-section-item
+        text-align: left
+        border-bottom: none
+        &.awards, &.workshops, &.education, &.releases, &.selected, &.administrative
+          &:nth-of-type(3n + 1)
+            font-style: italic
+          &:nth-of-type(3n + 3)
+            border-bottom: 1px solid #ddd
+            text-align: left
+        &.residencies, &.teaching
+          &:nth-of-type(4n + 1)
+            font-style: italic
+          &:nth-of-type(4n + 4)
+            border-bottom: 1px solid #ddd
+            text-align: left
+        &.memberships
+          &:nth-of-type(odd)
+            font-style: italic
+          &:nth-of-type(even)
+            border-bottom: 1px solid #ddd
+            text-align: left
+

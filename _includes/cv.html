@@ -1,14 +1,22 @@
 <section>
-    <div>
-        {% for section in site.cv %}
-        <div class="cv-section">
-            <details name="section">
-                <summary><h5>{{section.title}}</h5></summary>
-                <div class="cv-table" id="{{section.title | split: " " | first}}">
-                    {{ section.content }}
+    {% for section in site.cv %}
+    <div class="cv-section">
+        <details name="section">
+            <summary><h5>{{section.title}}</h5></summary>
+            <div class="cv-section-dropdown" id="{{ section.title | split: " " | first | downcase }}">
+                {% assign content = section.content | newline_to_br | strip_newlines | replace: "<br />", "\ " | strip_html | split: "\ "  %}
+                {% for item in content  %}
+                {% assign leader = item | slice: 0 %}
+                {% if {{leader}} == "%" %}
+                <span class="cv-section-header" style="font-weight: bold">{{ item | remove_first: "%" }}</span>
+                {% else %}
+                <div class = "cv-section-item {{ section.title | split: " " | first | downcase }}">
+                    <span>{{ item }}</span>
                 </div>
-            </details>
-        </div>
-        {% endfor %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </details>
     </div>
+    {% endfor %}
 </section>
