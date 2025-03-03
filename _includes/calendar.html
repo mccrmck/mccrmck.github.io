@@ -1,7 +1,7 @@
 <section>
     {% for year in site.calendar reversed %}
     <div class="calendar-year">
-        <details name="year">
+        <details name="year" open>
            <summary><h5>{{year.title}}</h5></summary>
             <div class="calendar-dropdown" id="{{ year.title }}">
                 {% assign content = year.content | newline_to_br | strip_newlines | replace: "<br />", "\ " | strip_html | split: "\ "  %}

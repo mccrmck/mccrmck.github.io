@@ -2,6 +2,10 @@
 title: SELECTED WORKS
 ---
 
+%software
+2024- \ NSFW ('Nuther SuperCollider FrameWork)\ modular performance environment
+2022-23\ π∆∞m∫ (commission from Meat.Karaoke.Quality.Time)\ improvising agent
+2020-23\ EIDOLON\ improvising agent
 %large ensemble
 2022\ control_structures\ jazz orchestra
 2021\ work song\ jazz orchestra

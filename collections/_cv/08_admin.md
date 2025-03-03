@@ -2,6 +2,7 @@
 title: ADMINISTRATIVE WORK
 ---
 
+2024-\ Board member\ Norsk komponistforening
 2024-\ Working group\ Verdensrommet
 2023-24\ SuperCollider Meetup host\ Notam
 2020-24\ Co-chair/treasurer\ nyMusikks komponistgruppe

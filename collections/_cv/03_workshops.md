@@ -2,6 +2,8 @@
 title: WORKSHOPS / CONFERENCES
 ---
 
+2025\ SuperCollider Symposum 2025\ Peabody Institute, Johns Hopkins University
+2025\ Speculative Sound Synthesis\ Impuls Academy
 2023\ Keynote: FLOSS every day\ MINU_festival for expanded music
 2022\ Embodied Perspectives on Musical AI\ University of Oslo
 2022\ Fluid Corpus Manipulation Workshop\ Notam

@@ -100,10 +100,25 @@ fieldset
   border: none
 
 summary
-  list-style-type: '⌯'
+  display: inline-block
+  position: relative
   &::marker
-    font-size: 24px
+    display: none
+    content: ""
+
+summary:before 
+  content: "+"
+  display: inline
+  font-size: 18px
+  position: absolute
+  transform: rotate(0deg)
+  transform-origin: 50% 55%
+  transition: transform 1.5s ease-in-out
+
+details[open] > summary:before 
+  transform: rotate(360deg)
   
+
 @media screen and (max-width: 480px)
   
 section:nth-child(odd)
