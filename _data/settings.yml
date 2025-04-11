@@ -12,6 +12,9 @@ menu:
 #-------------------------------
 # catalogue
 catalogue:
+- {path: 'intonarumori.jpg', url: 'https://theorchestraoffuturistnoiseintonersdirectedbylucianochessa.bandcamp.com/album/the-orchestra-of-futurist-noise-intoners-directed-by-luciano-chessa-plays-music-by-mariam-gviniashvili-aleksandra-s-y-gerard-lebik-luigi-russolo-john-hegre' } # 04.25
+- {path: 'esperanto.jpg', url: 'https://boomslangrecords.bandcamp.com/album/esperanto-the-remixes' } # 04.25
+- {path: 'paradice.jpg', url: 'https://florianwalter.bandcamp.com/album/paradice' } # 03.25
 - {path: 'taalmodighet.jpg' , url: 'https://henrietteeilertsen.bandcamp.com/album/om-t-lmodighet-2' } # 09.24
 - {path: 'noeGoyPaaM.jpg' , url: 'https://www.magnusmurphyjoelson.com/noe-gy-pa-metamorfosis' } #05.24
 - {path: 'graosido.jpg' , url: 'https://knutkviftenesheim.bandcamp.com/album/graosido' } # 05.23
