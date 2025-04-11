@@ -2,6 +2,9 @@
 title: RELEASES
 ---
 
+2025\ Plays Music by Mariam Gviniashvili, Aleksandra Słyż, Gerard Lebik, Luigi Russolo, John Hegre\ The Orchestra of Futurist Noise Intoners directed by Luciano Chessa
+2025\ ESPERANTO - THE REMIXES\ Meat.Karaoke.Quality.Time
+2025\ PARADICE\ Meat.Karaoke.Quality.Time
 2024\ Om tålmodighet\ OJKOS / Henriette Eilertsen
 2024\ Noe gøy på M\ OJKOS / Magnus Murphy Joelson
 2023\ Graosido\ OJKOS / Knut Kvifte Nesheim
